@@ -20,8 +20,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> 
-         <a href=https://www.notion.so/1fd373b51c2f80f2b0dde7d672a2d0ff> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/1fd373b51c2f80f2b0dde7d672a2d0ff"> </a>
+    <div align= "center">
          <a href=mailto:sunny030509@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sunny030509@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
